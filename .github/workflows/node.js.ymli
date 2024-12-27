@@ -4,7 +4,7 @@
 name: Node.js CI
 
 on:𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=KqRh3bxC#nIJcRjZlFitl-gEth3ap25LUJflXDQ0EVjNYEmmkG2g
-  push:𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=KqRh3bxC#nIJcRjZlFitl-gEth3ap25LUJflXDQ0EVjNYEmmkG2g
+  push:
     branches: [ "752230618" ]
   pull_request:
     branches: [ "752230618" ]
